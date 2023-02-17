@@ -1,6 +1,6 @@
 {
   "name": "@ocupop/ocuponents-fields",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "./dist/ocuponents-fields.umd.cjs",
   "module": "./dist/ocuponents-fields.js",
