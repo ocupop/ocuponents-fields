@@ -14,6 +14,18 @@
   "files": [
     "dist"
   ],
+  "description": "Ocuponents set of fields used for formik",
+  "author": "Ocupop",
+  "license": "MIT",
+  "homepage": "https://ocupop.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocupop/ocuponents-fields.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocupop/ocuponents-fields/issues"
+  },
+  "keywords": ["formik", "ocupop", "react-components"],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
